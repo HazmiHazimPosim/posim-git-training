@@ -7,5 +7,7 @@ Git Training
 6. Point to the destination file path in Gitbash
 7. Type command "git clone https://github.com/HazmiHazimPosim/posim-git-training.git"
 8. Go to branch> Create new branch
-9. Type command notepad touch, notepad will appear and prompt user whether want to create touch.txt
-10. 
+9. Type command notepad Git Training, notepad will appear and prompt user whether want to create Git Training.txt
+10. Put the file inside posim-git-training folder
+11. Type command: git add "Git Training.txt" 
+12. Type command: git commit -m "Git Training.txt"
